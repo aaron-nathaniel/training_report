@@ -1,6 +1,6 @@
 # Training Report
 
-![Dashboard](https://github.com/aaron-nathaniel/PowerBI_Reports/blob/main/training_report_dashboard.png)
+![Dashboard](https://github.com/aaron-nathaniel/training_report/blob/main/training_report_dashboard.png)
 
 You can access the interactive Power BI Dashboard [HERE](https://app.powerbi.com/reportEmbed?reportId=b1166d77-2e33-4d5a-b0c7-cded082d3a0d&autoAuth=true&ctid=3de1f4bf-5be5-448f-bdbe-855f267919d2)
 
